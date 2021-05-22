@@ -48,7 +48,8 @@ static void displayHelp(void)
                "[options]:\n"
                "  -tap  create ZX Spectrum tape (default)\n"
                "  -asm  create assembly source code\n"
-               "  -out  create list of OUTs\n");
+               "  -out  create list of OUTs\n"
+               "  -ay   create AY file\n");
         exit(-1);
 }
 
