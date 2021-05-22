@@ -2,7 +2,7 @@
 # Works with MinGW
 
 CC	= gcc
-CFLAGS	= -W -Wall -O3 -mtune=pentium2
+CFLAGS	= -W -Wall -O3
 LIBS	= -lm
 Z80ASM	= pasmo
 
